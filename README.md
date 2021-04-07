@@ -89,3 +89,14 @@ Steps are the sequence of tasks in a job.
         # Path to the release apk.
         path: build/app/outputs/apk/release/app-release.apk
 ```
+
+## Watch your builds
+
+Once you have pushed to your main branch, you can immediately see the build starting for your latest commit on GitHub under the Actions tab
+
+<img src="https://github.com/kapilmhr/flutter_github_actions/blob/main/snapshots/build1.png" height="350">
+
+### View Logs
+
+<img src="https://github.com/kapilmhr/flutter_github_actions/blob/main/snapshots/build2.png" height="350">
+
