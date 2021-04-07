@@ -2,7 +2,7 @@
 ## Github Actions For Flutter
 
 
-## Getting Started
+## Outcome Result
 
 Goto [Actions](https://github.com/kapilmhr/flutter_github_actions/actions) in top Bar.
 
@@ -10,6 +10,7 @@ Click on latest workflow from the list.
 
 Find the latest APK.
 
+## Getting Started
 
 ## Create a workflow file
 
